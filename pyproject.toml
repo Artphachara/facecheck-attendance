@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools>=42", "wheel", "pybind11>=2.2"]
+build-backend = "setuptools.build_meta"
+requires-python = ">=3.9.0"
+
+[tool.poetry]
+name = "facecheck-attendance"
+version = "0.1.0"
+description = "facecheck-attendance is a library ..."
+authors = ["Phachara Wuttisetpaiboon"]
