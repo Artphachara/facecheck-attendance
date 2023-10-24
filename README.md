@@ -7,5 +7,5 @@ This open-source Python library is designed to simplify attendance tracking usin
 Install the library using pip
 
 ```commandline
-pip install git+https://github.com/Artphachara/facecheck-attendance.git
+pip install facecheck-attendance
 ```
